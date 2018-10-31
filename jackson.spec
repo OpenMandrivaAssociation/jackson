@@ -1,7 +1,7 @@
 %{?_javapackages_macros:%_javapackages_macros}
 Name:    jackson
 Version: 1.9.11
-Release: 4.2
+Release: 4.3
 Group:	Development/Java
 Summary: Jackson Java JSON-processor
 License: ASL 2.0 or LGPLv2
