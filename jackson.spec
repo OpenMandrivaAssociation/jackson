@@ -5,7 +5,7 @@ Release: 4.3
 Group:	Development/Java
 Summary: Jackson Java JSON-processor
 License: ASL 2.0 or LGPLv2
-URL:     http://jackson.codehaus.org
+URL:     https://jackson.codehaus.org
 Source0: http://jackson.codehaus.org/1.9.11/jackson-src-1.9.11.tar.gz
 # Build plain jar files instead of OSGi bundles in order to avoid depending on
 # BND:
